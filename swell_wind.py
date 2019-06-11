@@ -12,6 +12,7 @@ class SwellWind:
                     for w in wind[1:]:
                         swell.append(w)
                     self.swell_winds.append(swell)
+                    break
 
     def __init__(self, swells, winds):
         self.swell_winds = []
@@ -26,10 +27,10 @@ class SwellWind:
 
     def print(self, start=0, end=3600*24*365*100000):
         results = self.get(start, end)
-        print ("<----   Swell   ----> | <---- Wind ---->")
+        print ("<----    Swell    ----> | <---- Wind ---->")
         for result in results:
             ts = time.gmtime(result[0])
-            print("{}: {}m, {}s, {} | {}km/h, {}".format(time.strftime("%H:%M", ts), result[1], result[3], result[2], result[4], result[5]))
+            print("{}: {:2.1f}m, {:4.1f}s, {:3s} | {:4.1f}km/h, {}".format(time.strftime("%H:%M", ts), float(result[1]), float(result[3]), result[2], float(result[4]), result[5]))
 
 if __name__ == "__main__":
     swelli = swell.Swell(r"https://swell.willyweather.com.au/nsw/sydney/south-head.html")

@@ -32,5 +32,5 @@ class Wind:
         print("")
 
 if __name__ == "__main__":
-    wind = Wind(r"sample\wind.html")
+    wind = Wind(r"https://wind.willyweather.com.au/nsw/sydney/south-head.html")
     wind.print()

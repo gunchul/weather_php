@@ -66,6 +66,6 @@ class Swell:
         print("")
 
 if __name__ == "__main__":
-    swell = Swell(r"sample\swell.html")
+    swell = Swell(r"https://swell.willyweather.com.au/nsw/sydney/south-head.html")
     swell.print()
     
