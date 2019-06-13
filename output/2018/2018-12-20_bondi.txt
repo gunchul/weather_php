@@ -1,0 +1,190 @@
+
+Thu 2018-12-20
+--------------
+sun: 05:11 05:40 20:04 20:33 
+rain: 65%, 1-10mm
+moon: 93%
+sea-temperature: 22°C
+tide: L-00:30 H-06:59 L-13:29 H-19:22 
+                 swell | wind        
+ 00:00: 1.5m, 9.5s,SSE | 16.7km/h,  N
+ 01:00: 1.5m, 9.5s,SSE | 18.1km/h,  N
+ 02:00: 1.5m, 9.5s,SSE | 10.4km/h,  N
+ 03:00: 1.5m, 9.4s,SSE |  4.8km/h, NE
+ 04:00: 1.4m, 9.4s,SSE | 10.2km/h, NE
+ 05:00: 1.4m, 9.4s,SSE |  8.9km/h, SE
+ 06:00: 1.5m, 9.4s,SSE | 10.0km/h,SSE
+ 07:00: 1.4m, 9.4s,SSE |  8.3km/h,ESE
+ 08:00: 1.4m, 9.4s,SSE | 16.5km/h,SSE
+ 09:00: 1.4m, 9.4s,SSE | 10.9km/h, NE
+ 10:00: 1.4m, 9.4s,SSE | 14.8km/h, SE
+ 11:00: 1.4m, 9.4s,SSE | 23.1km/h,  E
+ 12:00: 1.4m, 9.4s,SSE | 20.9km/h,ENE
+ 13:00: 1.4m, 9.3s,SSE | 24.4km/h,ENE
+ 14:00: 1.4m, 9.3s,SSE | 25.4km/h, NE
+ 15:00: 1.4m, 9.3s,SSE | 33.0km/h, NE
+ 16:00: 1.5m, 9.3s,SSE | 36.5km/h, NE
+ 17:00: 1.6m, 9.3s,SSE | 29.8km/h, NE
+ 18:00: 1.7m, 9.2s, SE | 30.0km/h, NE
+ 19:00: 1.8m, 9.2s, SE | 24.4km/h,ENE
+ 20:00: 1.8m, 9.2s, SE | 21.9km/h,  E
+ 21:00: 1.8m, 9.2s, SE | 23.5km/h,ESE
+ 22:00: 1.8m, 9.1s, SE | 23.5km/h, SE
+ 23:00: 1.8m, 9.1s, SE | 23.3km/h,SSE
+
+Fri 2018-12-21
+--------------
+sun: 05:11 05:40 20:05 20:34 
+rain: 40%, &lt;&nbsp;1mm
+moon: 98%
+tide: L-01:14 H-07:44 L-14:19 H-20:14 
+                 swell | wind        
+ 00:00: 1.8m, 9.1s, SE | 23.3km/h,  S
+ 01:00: 1.9m, 9.0s, SE | 27.8km/h,  S
+ 02:00: 1.9m, 9.0s, SE | 32.4km/h,  S
+ 03:00: 1.9m, 9.0s, SE | 34.4km/h,  S
+ 04:00: 2.0m, 9.0s, SE | 36.5km/h,  S
+ 05:00: 2.2m, 6.8s,SSE | 38.5km/h,  S
+ 06:00: 2.4m, 6.2s,SSE | 38.0km/h,  S
+ 07:00: 2.5m, 6.7s,SSE | 37.4km/h,  S
+ 08:00: 2.5m, 6.9s,SSE | 36.9km/h,  S
+ 09:00: 2.5m, 7.2s,SSE | 35.4km/h,  S
+ 10:00: 2.5m, 7.3s,SSE | 34.1km/h,  S
+ 11:00: 2.5m, 7.4s,SSE | 32.6km/h,  S
+ 12:00: 2.4m, 7.5s,SSE | 30.2km/h,SSE
+ 13:00: 2.4m, 7.5s,SSE | 27.6km/h,SSE
+ 14:00: 2.3m, 7.5s,SSE | 25.2km/h,SSE
+ 15:00: 2.2m, 7.6s,SSE | 23.0km/h,SSE
+ 16:00: 2.2m, 7.6s,SSE | 20.9km/h, SE
+ 17:00: 2.1m, 7.6s,SSE | 18.7km/h, SE
+ 18:00: 2.1m, 7.6s,SSE | 18.0km/h, SE
+ 19:00: 2.1m, 7.7s, SE | 17.4km/h,ESE
+ 20:00: 2.0m, 7.8s, SE | 16.7km/h,  E
+ 21:00: 2.0m, 7.8s, SE | 16.3km/h,  E
+ 22:00: 2.0m, 7.9s, SE | 15.9km/h,  E
+ 23:00: 1.9m, 8.0s, SE | 15.6km/h,  E
+
+Sat 2018-12-22
+--------------
+sun: 05:12 05:41 20:05 20:34 
+rain: 55%, 1-5mm
+moon: 99%
+tide: L-01:59 H-08:31 L-15:08 H-21:05 
+                 swell | wind        
+ 00:00: 1.9m, 8.0s,SSE | 13.5km/h,  E
+ 01:00: 1.9m, 8.0s,SSE | 11.7km/h,  E
+ 02:00: 1.8m, 8.1s,SSE |  9.6km/h,  E
+ 03:00: 1.8m, 8.1s,SSE |  8.5km/h,  E
+ 04:00: 1.8m, 8.1s,SSE |  7.4km/h,  E
+ 05:00: 1.8m, 8.1s,SSE |  6.3km/h,ESE
+ 06:00: 1.8m, 8.1s,SSE | 13.3km/h,SSE
+ 07:00: 1.8m, 8.1s,SSE | 20.2km/h,  S
+ 08:00: 1.8m, 8.1s,SSE | 27.2km/h,  S
+ 09:00: 1.9m, 8.0s,SSE | 32.2km/h,  S
+ 10:00: 1.9m, 8.0s,SSE | 37.2km/h,  S
+ 11:00: 2.0m, 7.9s,SSE | 42.2km/h,  S
+ 12:00: 2.0m, 7.8s,SSE | 43.9km/h,  S
+ 13:00: 2.0m, 7.8s,SSE | 45.6km/h,  S
+ 14:00: 2.0m, 7.7s,SSE | 47.2km/h,  S
+ 15:00: 2.1m, 7.7s,SSE | 45.9km/h,  S
+ 16:00: 2.1m, 7.7s,SSE | 44.8km/h,  S
+ 17:00: 2.1m, 7.7s,SSE | 43.5km/h,  S
+ 18:00: 2.1m, 7.8s,SSE | 43.5km/h,  S
+ 19:00: 2.1m, 7.8s,SSE | 43.7km/h,  S
+ 20:00: 2.1m, 7.8s,SSE | 43.7km/h,  S
+ 21:00: 2.1m, 7.8s,SSE | 41.5km/h,  S
+ 22:00: 2.1m, 7.8s,SSE | 39.3km/h,  S
+ 23:00: 2.1m, 7.9s,SSE | 37.0km/h,  S
+
+Sun 2018-12-23
+--------------
+sun: 05:12 05:41 20:06 20:35 
+rain: 30%, &lt;&nbsp;1mm
+moon: 100%
+tide: L-02:47 H-09:19 L-15:58 H-21:57 
+                 swell | wind        
+ 00:00: 2.1m, 7.9s,SSE | 36.1km/h,  S
+ 01:00: 2.1m, 7.9s,SSE | 35.2km/h,  S
+ 02:00: 2.2m, 8.0s,SSE | 34.3km/h,  S
+ 03:00: 2.3m, 8.0s,SSE | 33.2km/h,  S
+ 04:00: 2.4m, 8.0s,SSE | 32.0km/h,  S
+ 05:00: 2.5m, 8.2s,SSE | 30.9km/h,  S
+ 06:00: 2.5m, 8.3s,SSE | 30.6km/h,  S
+ 07:00: 2.6m, 8.4s,SSE | 30.4km/h,  S
+ 08:00: 2.6m, 8.5s,SSE | 30.0km/h,  S
+ 09:00: 2.5m, 8.5s,SSE | 29.3km/h,  S
+ 10:00: 2.4m, 8.5s,SSE | 28.5km/h,SSE
+ 11:00: 2.3m, 8.4s,SSE | 27.8km/h,SSE
+ 12:00: 2.2m, 8.4s,SSE | 27.0km/h,SSE
+ 13:00: 2.1m, 8.3s,  S | 26.5km/h,SSE
+ 14:00: 2.0m, 8.2s,  S | 25.7km/h,SSE
+ 15:00: 1.9m, 8.0s,  S | 24.4km/h,SSE
+ 16:00: 1.8m, 7.9s,  S | 23.0km/h, SE
+ 17:00: 1.7m, 7.7s,SSE | 21.7km/h, SE
+ 18:00: 1.7m, 7.6s,SSE | 20.6km/h, SE
+ 19:00: 1.6m, 7.5s,SSE | 19.6km/h, SE
+ 20:00: 1.6m, 7.4s,SSE | 18.5km/h, SE
+ 21:00: 1.5m, 7.3s,SSE | 17.2km/h,ESE
+ 22:00: 1.5m, 7.2s,SSE | 15.7km/h,ESE
+ 23:00: 1.5m, 7.1s,SSE | 14.4km/h,  E
+
+Mon 2018-12-24
+--------------
+sun: 05:13 05:42 20:06 20:35 
+rain: 5%, &lt;&nbsp;1mm
+moon: 96%
+tide: L-03:37 H-10:08 L-16:48 H-22:50 
+                 swell | wind        
+ 00:00: 1.4m, 7.0s,SSE | 15.6km/h,  E
+ 01:00: 1.4m, 7.0s,SSE | 13.5km/h,  E
+ 02:00: 1.4m, 6.9s,SSE | 11.5km/h,ENE
+ 03:00: 1.4m, 6.9s,SSE |  9.6km/h,ENE
+ 04:00: 1.3m, 6.9s, SE |  8.0km/h,WNW
+ 05:00: 1.3m, 6.9s, SE |  6.3km/h,  W
+ 06:00: 1.3m, 6.8s, SE |  6.7km/h,  W
+ 07:00: 1.3m, 6.8s, SE |  7.2km/h,WSW
+ 08:00: 1.3m, 6.8s, SE |  7.8km/h,WSW
+ 09:00: 1.2m, 6.8s, SE |  8.9km/h, SW
+ 10:00: 1.2m, 6.8s, SE | 10.0km/h,ESE
+ 11:00: 1.2m, 6.8s, SE | 11.1km/h,  E
+ 12:00: 1.2m, 6.7s, SE | 15.9km/h,  E
+ 13:00: 1.2m, 6.7s, SE | 20.7km/h,ENE
+ 14:00: 1.2m, 6.7s, SE | 25.7km/h,ENE
+ 15:00: 1.2m, 6.7s, SE | 27.6km/h,ENE
+ 16:00: 1.2m, 6.7s, SE | 29.6km/h,ENE
+ 17:00: 1.2m, 6.7s, SE | 31.5km/h,ENE
+ 20:00: 1.3m, 6.8s,ESE | 32.0km/h, NE
+ 23:00: 1.3m, 6.7s,ESE | 26.9km/h,NNE
+
+Tue 2018-12-25
+--------------
+sun: 05:13 05:42 20:07 20:36 
+rain: 0%, 0mm
+moon: 89%
+tide: L-04:29 H-10:59 L-17:41 H-23:44 
+                 swell | wind        
+ 02:00: 1.2m, 6.6s,ESE | 23.5km/h,  N
+ 05:00: 1.2m, 6.5s,ESE | 20.4km/h,NNW
+ 08:00: 1.1m, 6.7s,ESE | 22.4km/h,  N
+ 11:00: 1.0m, 7.0s,ESE | 24.4km/h, NE
+ 14:00: 1.0m, 7.7s,  E | 28.2km/h, NE
+ 17:00: 1.1m, 5.4s,ENE | 31.9km/h, NE
+ 20:00: 1.2m, 5.6s,ENE | 26.3km/h,NNE
+ 23:00: 1.2m, 5.2s,ENE | 20.6km/h,NNE
+
+Wed 2018-12-26
+--------------
+sun: 05:14 05:43 20:07 20:36 
+rain: 5%, &lt;&nbsp;1mm
+moon: 81%
+tide: L-05:24 H-11:51 L-18:34 
+                 swell | wind        
+ 02:00: 1.1m, 5.5s,ENE | 13.3km/h,NNE
+ 05:00: 1.1m, 5.6s,ENE |  5.9km/h,NNW
+ 08:00: 1.0m, 5.7s,ENE | 11.3km/h, SE
+ 11:00: 0.9m, 5.8s,ENE | 16.7km/h, SE
+ 14:00: 1.0m, 5.7s,ENE | 19.8km/h,  E
+ 17:00: 1.2m, 4.7s, NE | 23.0km/h,ENE
+ 20:00: 1.4m, 5.2s, NE | 24.1km/h, NE
+ 23:00: 1.3m, 5.6s,ENE | 25.0km/h,NNE
+

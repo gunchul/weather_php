@@ -1,0 +1,113 @@
+
+Sat 2017-12-16
+--------------
+sun: 05:10 05:39 19:58 20:26 
+rain: 40%, &lt;&nbsp;1mm
+moon: 3%
+tide: L-01:20 H-07:59 L-14:33 H-20:19 
+                 swell | wind        
+ 02:00: 1.4m,11.7s,  E | 23.7km/h, NE
+ 05:00: 1.4m,10.2s,  E |  9.4km/h,NNE
+ 08:00: 1.4m,10.2s,  E | 13.9km/h,NNE
+ 11:00: 1.3m,10.2s,  E | 11.3km/h,ENE
+ 14:00: 1.4m,11.2s,  E | 31.1km/h,  E
+ 17:00: 1.5m, 9.9s,  E | 35.4km/h,ENE
+ 20:00: 1.5m, 6.4s, NE | 34.8km/h, NE
+ 23:00: 1.7m, 6.7s, NE | 31.3km/h, NE
+
+Sun 2017-12-17
+--------------
+sun: 05:10 05:39 19:58 20:27 
+rain: 5%, &lt;&nbsp;1mm
+moon: 1%
+tide: L-01:56 H-08:35 L-15:11 H-20:59 
+                 swell | wind        
+ 02:00: 1.5m, 6.6s, NE | 14.1km/h,SSW
+ 05:00: 1.3m, 6.5s, NE | 19.1km/h,SSW
+ 08:00: 1.2m, 6.5s, NE | 28.3km/h,SSW
+ 11:00: 1.1m, 6.5s, NE | 33.5km/h,SSW
+ 14:00: 1.0m, 9.5s,  E | 31.1km/h,SSW
+ 17:00: 1.0m, 9.4s,  E | 23.3km/h,SSW
+ 20:00: 1.0m, 9.3s,  E |  9.6km/h,SSW
+ 23:00: 1.1m, 6.0s, NE |  5.2km/h,WSW
+
+Mon 2017-12-18
+--------------
+sun: 05:11 05:39 19:59 20:27 
+rain: 5%, &lt;&nbsp;1mm
+moon: 0%
+tide: L-02:31 H-09:11 L-15:46 H-21:39 
+                 swell | wind        
+ 02:00: 1.2m, 6.0s, NE |  5.4km/h,ESE
+ 05:00: 1.2m, 6.1s, NE | 10.9km/h, NE
+ 08:00: 1.1m, 6.2s,ENE | 10.9km/h, NE
+ 11:00: 1.1m, 6.2s,ENE | 17.4km/h,ESE
+ 14:00: 1.2m, 6.2s,ENE | 29.8km/h,ENE
+ 17:00: 1.6m, 5.9s, NE | 35.0km/h,ENE
+ 20:00: 1.6m, 6.3s,ENE | 30.2km/h, NE
+ 23:00: 1.4m, 6.4s,ENE | 16.5km/h, NE
+
+Tue 2017-12-19
+--------------
+sun: 05:11 05:40 19:59 20:28 
+rain: 20%, &lt;&nbsp;1mm
+moon: 1%
+tide: L-03:07 H-09:44 L-16:22 H-22:18 
+                 swell | wind        
+ 02:00: 1.3m, 6.6s,ENE | 11.7km/h, NE
+ 05:00: 1.1m, 6.8s,ENE | 11.5km/h, NE
+ 08:00: 1.0m, 6.7s,ENE | 13.0km/h,NNE
+ 11:00: 1.0m, 6.7s,ENE | 19.1km/h,ENE
+ 14:00: 1.0m, 6.8s,ENE | 31.9km/h,ENE
+ 17:00: 1.4m, 6.8s, NE | 35.0km/h,ENE
+ 20:00: 2.0m, 6.9s, NE | 27.6km/h, NE
+ 23:00: 2.0m, 7.4s, NE | 23.3km/h, NE
+
+Wed 2017-12-20
+--------------
+sun: 05:12 05:40 20:00 20:29 
+rain: 50%, &lt;&nbsp;1mm
+moon: 4%
+tide: L-03:44 H-10:20 L-16:58 H-22:58 
+                 swell | wind        
+ 02:00: 1.8m, 7.7s,ENE | 17.8km/h,NNE
+ 05:00: 1.6m, 7.8s, NE | 14.6km/h,NNE
+ 08:00: 1.4m, 7.8s, NE | 13.0km/h,NNE
+ 11:00: 1.3m, 7.8s, NE | 15.7km/h,NNE
+ 14:00: 1.3m, 7.8s, NE | 25.7km/h, NE
+ 17:00: 1.4m, 7.6s, NE | 21.9km/h,NNE
+ 20:00: 1.4m, 7.4s, NE | 23.3km/h,SSW
+ 23:00: 1.2m, 7.5s, NE |  6.1km/h,SSW
+
+Thu 2017-12-21
+--------------
+sun: 05:12 05:41 20:00 20:29 
+rain: 75%, 1-5mm
+moon: 9%
+tide: L-04:22 H-10:56 L-17:35 H-23:37 
+                 swell | wind        
+ 02:00: 1.2m, 7.6s, NE | 14.3km/h,  S
+ 05:00: 1.6m, 4.6s,  S | 30.9km/h,  S
+ 08:00: 1.9m, 6.1s,  S | 32.0km/h,  S
+ 11:00: 1.9m, 6.7s,SSE | 29.1km/h,SSE
+ 14:00: 1.8m, 6.8s,SSE | 28.0km/h,SSE
+ 17:00: 1.8m, 6.9s,SSE | 27.0km/h,SSE
+ 20:00: 1.8m, 6.9s,SSE | 27.4km/h,SSE
+ 23:00: 1.7m, 7.0s,SSE | 27.6km/h,SSE
+
+Fri 2017-12-22
+--------------
+sun: 05:13 05:41 20:01 20:30 
+rain: 50%, &lt;&nbsp;2mm
+moon: 15%
+tide: L-05:02 H-11:32 L-18:14 
+                 swell | wind        
+ 02:00: 1.5m, 6.8s,SSE | 26.3km/h,SSE
+ 05:00: 1.4m, 6.6s, SE | 24.8km/h,SSE
+ 08:00: 1.2m, 6.4s, SE | 25.2km/h,SSE
+ 11:00: 1.1m, 6.2s, SE | 24.6km/h,SSE
+ 14:00: 1.1m, 6.1s, SE | 21.5km/h,SSE
+ 17:00: 1.1m, 8.8s, SE | 16.5km/h,SSE
+ 20:00: 1.1m, 8.7s, SE |  9.4km/h, SE
+ 23:00: 1.2m, 5.5s,ESE |  5.0km/h, SE
+

@@ -51,6 +51,7 @@ def print_a_day(secs, sun, rain, moon, seatemp, tide, swell_wind):
     start_secs = util.time_get(date_str)
 
     print(day_str, date_str)
+    print("-------------------")
 
     if sun != None:
         sun.print(start_secs, start_secs + 3600*24)
