@@ -16,7 +16,7 @@ $cmd = sprintf("cat data/%s/%s_%s.txt", $search_year, $search_date, $region);
 $output = shell_exec($cmd);
 if ($output == NULL)
 {
-   $output = sprintf("No data");
+   $output = sprintf("No data(%s)", $cmd);
 }
 ?>
 
