@@ -29,49 +29,36 @@ if ($output == NULL)
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <body>
+<?php
+echo $_POST["search_date"];
+echo "<p>";
+echo $_POST["region"];
+?>
 <p>
-<form action="search.php" method="post">
+<form action="search.php" id="search" method="post">
   지역: 
-  <div class="btn-group" data-toggle="buttons">
-    <label class="btn btn-primary">
-      <input type="radio" id="newcastle" name="region" value="newcastle" 
-      <?php 
-          if (strcmp($region, "newcastle")==0)
-          {
-              echo " checked=\"checked\" autofocus=\"true\"";
-          }
-      ?> /> 뉴카슬
-    </label>
-    <label class="btn btn-primary">
-      <input type="radio" id="bondi" name="region" value="bondi" 
-      <?php 
-          if (strcmp($region, "bondi")==0)
-          {
-              echo " checked=\"checked\" autofocus=\"true\"";
-          }
-      ?> /> 시드니
-    </label>
-    <label class="btn btn-primary">
-      <input type="radio" id="wollongong" name="region" value="wollongong" 
-      <?php 
-          if (strcmp($region, "wollongong")==0)
-          {
-              echo " checked=\"checked\" autofocus=\"true\"";
-          }
-      ?>
-      /> 울릉공
-    </label>
+  <div class="btn-group">
+    <button type="button" class="btn btn-primary" onclick="submit_by_region('newcastle')">뉴카슬</button>
+    <button type="button" class="btn btn-primary" onclick="submit_by_region('bondi')">시드니</button>
+    <button type="button" class="btn btn-primary" onclick="submit_by_region('wollongong')">울릉공</button>
   </div>
   <br><br>                         
   날짜:
-  <input type="date" value="<?php echo $search_date ?>" name="search_date">
+  <input type="date" value="<?php echo $search_date ?>" name="search_date" onchange="submit()">
   <br><br>
-  <button type="submit" class="btn btn-primary"> 검색 </button>
+  <input type="hidden" id="region" name="region" value="<?php echo $region?>">
 </form>
 <br>
 <div class="form-group">
   <label for="result">날씨:</label>
   <textarea style="font-family:consolas" class="form-control" rows="120" id="comment"><?php echo $output;?></textarea>
 </div>
+
+<script>
+function submit_by_region(region) {
+  document.getElementById("region").value = region;
+  document.getElementById("search").submit();
+}
+</script>
 </body>
 </html>
