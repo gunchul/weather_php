@@ -2,8 +2,8 @@
 
 YEAR=`date +%Y`
 DATE=`date +%Y-%m-%d`
-AREAS=("newcastle" "sydney" "wollongong")
-OUTPUTS=("newcastle" "bondi" "wollongong")
+AREAS=("newcastle" "sydney" "wollongong" "frazer_beach" "boat_harbour")
+OUTPUTS=("newcastle" "bondi" "wollongong" "frazer_beach" "boat_harbour")
 NUM_AREAS=${#AREAS[@]}
 
 mkdir -p output/${YEAR}

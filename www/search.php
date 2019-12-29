@@ -28,19 +28,43 @@ if ($output == NULL)
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <style>
+    pre {
+      font-family: monospace;
+    } 
+</style>
+
 <body>
-<?php
-echo $_POST["search_date"];
-echo "<p>";
-echo $_POST["region"];
-?>
 <p>
 <form action="search.php" id="search" method="post">
   지역: 
   <div class="btn-group">
+    <?php
+    $regions = array("boat_harbour"=>"보트하버", 
+                 "newcastle"=>"뉴카슬", 
+                 "frazer_beach"=>"프레이져비치",
+                 "bondi"=>"시드니",
+                 "wollongong"=>"울릉공",
+                );
+
+    foreach($regions as $key => $value) {
+      if ($region == $key)
+      {
+        $active = " active";
+      }
+      else
+      {
+        $active = "";
+      }
+
+      echo '<button type="button" class="btn btn-primary' . $active . '" onclick="submit_by_region(\'' . $key . '\')" checked>' . $value . '</button>';
+    }
+    ?>
+    <!-- <button type="button" class="btn btn-primary" onclick="submit_by_region('boat_harbour')">보트하버</button>
     <button type="button" class="btn btn-primary" onclick="submit_by_region('newcastle')">뉴카슬</button>
+    <button type="button" class="btn btn-primary" onclick="submit_by_region('frazer_beach')">프레이져비치</button>
     <button type="button" class="btn btn-primary" onclick="submit_by_region('bondi')">시드니</button>
-    <button type="button" class="btn btn-primary" onclick="submit_by_region('wollongong')">울릉공</button>
+    <button type="button" class="btn btn-primary" onclick="submit_by_region('wollongong')">울릉공</button> -->
   </div>
   <br><br>                         
   날짜:
@@ -51,7 +75,10 @@ echo $_POST["region"];
 <br>
 <div class="form-group">
   <label for="result">날씨:</label>
-  <textarea style="font-family:consolas" class="form-control" rows="120" id="comment"><?php echo $output;?></textarea>
+  <pre>
+  <?php echo $output;?>
+  </pre>
+  <!-- <textarea style="font-family:consolas" class="form-control" rows="120" id="comment"><?php /*echo $output;*/?></textarea> -->
 </div>
 
 <script>

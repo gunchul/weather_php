@@ -29,12 +29,16 @@ location_page = {
     "newcastle": "/hunter/newcastle-beach.html",
     "sydney": "/sydney/south-head.html",
     "wollongong": "/illawarra/wollongong-harbour.html",
+    "frazer_beach": "/central-coast/frazer-beach.html",
+    "boat_harbour": "/hunter/boat-harbour.html",
 }
 
 seatemp_page = {
     "newcastle": r"https://www.seatemperature.org/australia-pacific/australia/newcastle.htm",
     "sydney": r"https://www.seatemperature.org/australia-pacific/australia/sydney.htm",
     "wollongong": r"https://www.seatemperature.org/australia-pacific/australia/sydney.htm",
+    "frazer_beach": r"https://www.seatemperature.org/australia-pacific/australia/the-entrance.htm",
+    "boat_harbour": r"https://www.seatemperature.org/australia-pacific/australia/nelson-bay.htm"
 }
 
 
