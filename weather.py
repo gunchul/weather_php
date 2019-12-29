@@ -71,13 +71,10 @@ def print_a_day(secs, sun, rain, moon, seatemp, tide, swell_wind):
         swell_wind.print(start_secs, start_secs + 3600*24)
     print("")
 
-if len(sys.argv) == 1:
-    location = "sydney"
-else:
-    if sys.argv[1] != "sydney" and sys.argv[1] != "newcastle" and sys.argv[1] != "wollongong":
-        location = "sydney"
-    else:
-        location = sys.argv[1]
+location = "sydney"
+locations = ["sydney", "newcastle", "wollongong", "frazer_beach", "boat_harbour"]
+if len(sys.argv) >= 1 and sys.argv[1] in locations:
+    location = sys.argv[1]
 
 suni = sun.Sun(willy_uri_get("sun", location))
 raini = rain.Rain(willy_uri_get("rain", location))
