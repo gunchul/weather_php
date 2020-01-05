@@ -22,6 +22,16 @@ if ($output == NULL)
 
 <!DOCTYPE html>
 <html lang="ko">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155280384-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155280384-1');
+</script>
 <title>Search Weather</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,6 +43,7 @@ if ($output == NULL)
       font-family: monospace;
     } 
 </style>
+</head>
 
 <body>
 <p>
