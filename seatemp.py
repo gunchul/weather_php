@@ -37,3 +37,11 @@ class Seatemp:
 if __name__ == "__main__":
     seatemp = Seatemp(r"https://www.seatemperature.org/australia-pacific/australia/newcastle.htm")
     seatemp.print()
+    seatemp = Seatemp(r"https://www.seatemperature.org/australia-pacific/australia/sydney.htm")
+    seatemp.print()
+    seatemp = Seatemp(r"https://www.seatemperature.org/australia-pacific/australia/sydney.htm")
+    seatemp.print()
+    seatemp = Seatemp(r"https://www.seatemperature.org/australia-pacific/australia/dee-why.htm")
+    seatemp.print()
+    seatemp = Seatemp(r"https://www.seatemperature.org/australia-pacific/australia/nelson-bay.htm")
+    seatemp.print()
