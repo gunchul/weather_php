@@ -7,6 +7,7 @@ import sun
 import rain
 import moon
 import seatemp
+import seatempnet
 import tide
 import swell
 import wind
@@ -33,12 +34,20 @@ location_page = {
     "boat_harbour": "/hunter/boat-harbour.html",
 }
 
-seatemp_page = {
+seatemp_page_org = {
     "newcastle": r"https://www.seatemperature.org/australia-pacific/australia/newcastle.htm",
     "sydney": r"https://www.seatemperature.org/australia-pacific/australia/sydney.htm",
     "wollongong": r"https://www.seatemperature.org/australia-pacific/australia/sydney.htm",
     "frazer_beach": r"https://www.seatemperature.org/australia-pacific/australia/dee-why.htm",
     "boat_harbour": r"https://www.seatemperature.org/australia-pacific/australia/nelson-bay.htm"
+}
+
+seatemp_page = {
+    "newcastle": r"https://seatemperature.net/current/australia/newcastle-new-south-wales-australia-sea-temperature",
+    "sydney": r"https://seatemperature.net/current/australia/sydney-new-south-wales-australia-sea-temperature",
+    "wollongong": r"https://seatemperature.net/current/australia/wollongong-new-south-wales-australia-sea-temperature",
+    "frazer_beach": r"https://seatemperature.net/current/australia/moonee-beach-new-south-wales-australia-sea-temperature",
+    "boat_harbour": r"http://seatemperature.net/current/australia/nelson-bay-new-south-wales-australia-sea-temperature"
 }
 
 
@@ -79,8 +88,7 @@ if len(sys.argv) >= 1 and sys.argv[1] in locations:
 suni = sun.Sun(willy_uri_get("sun", location))
 raini = rain.Rain(willy_uri_get("rain", location))
 mooni = moon.Moon(willy_uri_get("moon", location))
-#seatempi = seatemp.Seatemp(seatemp_page[location])
-seatempi = None
+seatempi = seatempnet.Seatempnet(seatemp_page[location])
 tidei = tide.Tide(willy_uri_get("tide", location))
 swelli = swell.Swell(willy_uri_get("swell", location))
 windi = wind.Wind(willy_uri_get("wind", location))
