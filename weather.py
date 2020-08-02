@@ -46,7 +46,7 @@ seatemp_page = {
     "newcastle": r"https://seatemperature.net/current/australia/newcastle-new-south-wales-australia-sea-temperature",
     "sydney": r"https://seatemperature.net/current/australia/sydney-new-south-wales-australia-sea-temperature",
     "wollongong": r"https://seatemperature.net/current/australia/wollongong-new-south-wales-australia-sea-temperature",
-    "frazer_beach": r"https://seatemperature.net/current/australia/moonee-beach-new-south-wales-australia-sea-temperature",
+    "frazer_beach": r"https://seatemperature.net/current/australia/gosford-new-south-wales-australia-sea-temperature",
     "boat_harbour": r"http://seatemperature.net/current/australia/nelson-bay-new-south-wales-australia-sea-temperature"
 }
 
