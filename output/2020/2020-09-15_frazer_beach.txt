@@ -1,0 +1,201 @@
+Tue 2020-09-15
+-------------------
+sun: 05:26  05:51  17:45  18:10  
+rain: 25%, < 1mm
+moon: 6%
+sea-temperature: 17.6°C
+tide: H-06:36  L-12:12  H-18:39  
+<----    Swell    ----> | <---- Wind ---->
+01:00: 1.0m,  9.2s, SE  |  9.7km/h, E
+02:00: 1.0m,  9.3s, SE  |  7.9km/h, E
+03:00: 1.0m,  9.3s, SE  |  7.6km/h, E
+04:00: 1.1m,  9.4s, SSE |  7.6km/h, ESE
+05:00: 1.1m,  9.4s, SSE |  9.0km/h, E
+06:00: 1.1m,  9.5s, SSE |  9.7km/h, ENE
+07:00: 1.1m,  9.5s, SSE | 10.8km/h, NE
+08:00: 1.1m,  9.5s, SSE | 12.2km/h, NE
+09:00: 1.2m,  9.5s, SSE | 14.4km/h, NE
+10:00: 1.2m,  9.6s, SSE | 14.8km/h, NE
+11:00: 1.2m,  9.6s, SSE | 15.1km/h, NE
+12:00: 1.2m,  9.6s, SSE | 15.5km/h, ENE
+13:00: 1.2m,  9.7s, SSE | 16.9km/h, ENE
+14:00: 1.2m,  9.7s, SSE | 19.8km/h, ENE
+15:00: 1.2m,  9.8s, SSE | 21.2km/h, ENE
+16:00: 1.2m,  9.9s, SSE | 23.0km/h, ENE
+17:00: 1.3m, 10.0s, SSE | 24.8km/h, NE
+18:00: 1.3m, 10.1s, SSE | 26.6km/h, NE
+19:00: 1.3m, 10.1s, SSE | 27.7km/h, NE
+20:00: 1.3m, 10.1s, SSE | 28.8km/h, NE
+21:00: 1.3m, 10.0s, SSE | 29.2km/h, NE
+22:00: 1.3m, 10.0s, SSE | 28.8km/h, NNE
+23:00: 1.4m,  9.9s, SSE | 29.2km/h, NNE
+00:00: 1.4m,  9.9s, SSE | 29.9km/h, NNE
+
+Wed 2020-09-16
+-------------------
+sun: 05:25  05:50  17:46  18:10  
+rain: 0%, 0mm
+moon: 1%
+sea-temperature: 17.6°C
+tide: L-01:13  H-07:21  L-13:01  H-19:26  
+<----    Swell    ----> | <---- Wind ---->
+01:00: 1.4m,  9.8s, SSE | 29.2km/h, NNE
+02:00: 1.4m,  9.8s, SSE | 29.2km/h, NNE
+03:00: 1.4m,  9.8s, SSE | 30.6km/h, NNE
+04:00: 1.4m,  9.8s, SSE | 33.1km/h, NNE
+05:00: 1.4m,  9.8s, SSE | 33.5km/h, NNE
+06:00: 1.4m,  9.7s, SSE | 31.0km/h, NNE
+07:00: 1.4m,  9.7s, SE  | 28.1km/h, N
+08:00: 1.3m,  9.7s, SE  | 24.8km/h, N
+09:00: 1.3m,  9.7s, SE  | 23.8km/h, N
+10:00: 1.3m,  9.6s, SE  | 21.6km/h, N
+11:00: 1.3m,  9.6s, SE  | 16.9km/h, N
+12:00: 1.3m,  9.5s, SE  | 13.3km/h, NNE
+13:00: 1.3m,  9.5s, SE  | 13.7km/h, NE
+14:00: 1.3m,  9.4s, SE  | 15.5km/h, NE
+15:00: 1.3m,  9.4s, SE  | 18.0km/h, NE
+16:00: 1.3m,  9.3s, SE  | 21.2km/h, NE
+17:00: 1.3m,  9.2s, SE  | 24.8km/h, NE
+18:00: 1.4m,  9.2s, SE  | 26.6km/h, NE
+19:00: 1.4m,  6.2s, ENE | 27.0km/h, NNE
+20:00: 1.4m,  6.3s, ENE | 28.1km/h, NNE
+21:00: 1.4m,  6.4s, ENE | 27.4km/h, NNE
+22:00: 1.3m,  6.5s, ENE | 24.5km/h, N
+23:00: 1.3m,  6.5s, ENE | 22.3km/h, N
+00:00: 1.3m,  6.6s, ENE | 18.0km/h, N
+
+Thu 2020-09-17
+-------------------
+sun: 05:24  05:48  17:46  18:11  
+rain: 15%, < 1mm
+moon: 0%
+sea-temperature: 17.6°C
+tide: L-01:54  H-08:05  L-13:50  H-20:13  
+<----    Swell    ----> | <---- Wind ---->
+01:00: 1.2m,  6.6s, ENE | 14.8km/h, NNW
+02:00: 1.2m,  6.7s, ENE | 14.8km/h, NNW
+03:00: 1.2m,  6.8s, ENE | 15.1km/h, N
+04:00: 1.1m,  6.9s, ENE | 15.1km/h, N
+05:00: 1.1m,  8.6s, ESE | 14.8km/h, N
+06:00: 1.1m,  8.8s, SE  | 14.0km/h, NNW
+07:00: 1.0m,  8.8s, SE  | 14.0km/h, NNW
+08:00: 1.0m,  8.9s, SE  | 14.4km/h, NNW
+09:00: 1.0m,  8.9s, SE  | 15.5km/h, NNW
+10:00: 1.0m,  8.9s, SE  | 16.2km/h, NNW
+11:00: 0.9m,  8.9s, SSE | 16.2km/h, NNW
+12:00: 0.9m,  8.8s, SSE | 16.2km/h, NNW
+13:00: 0.9m,  8.7s, SE  | 16.2km/h, N
+14:00: 0.9m,  8.7s, SE  | 17.3km/h, N
+15:00: 0.9m,  8.6s, SE  | 18.4km/h, NNE
+16:00: 0.9m,  8.5s, SE  | 19.8km/h, NNE
+17:00: 0.9m,  8.4s, SE  | 19.4km/h, NNE
+18:00: 0.9m,  8.4s, SE  | 18.4km/h, NNE
+19:00: 0.9m,  8.4s, SE  | 17.3km/h, NNE
+20:00: 0.9m,  8.3s, SE  | 16.6km/h, N
+21:00: 1.0m,  8.3s, SE  | 16.2km/h, N
+22:00: 1.1m,  8.3s, SE  | 16.2km/h, N
+23:00: 1.2m,  4.5s, SSE | 16.9km/h, N
+00:00: 1.3m,  4.8s, SSE | 18.0km/h, SSW
+
+Fri 2020-09-18
+-------------------
+sun: 05:22  05:47  17:47  18:12  
+rain: 30%, < 1mm
+moon: 2%
+sea-temperature: 17.6°C
+tide: L-02:35  H-08:50  L-14:41  H-21:01  
+<----    Swell    ----> | <---- Wind ---->
+01:00: 1.3m,  5.0s, SSE | 19.4km/h, SSW
+02:00: 1.3m,  5.2s, SSE | 20.5km/h, SSW
+03:00: 1.3m,  5.3s, SSE | 20.9km/h, SSW
+04:00: 1.3m,  5.4s, SSE | 20.9km/h, SSW
+05:00: 1.3m,  5.5s, SSE | 19.8km/h, SSW
+06:00: 1.2m,  5.6s, SSE | 18.0km/h, SSW
+07:00: 1.2m,  5.7s, SSE | 17.3km/h, SSW
+08:00: 1.2m,  5.8s, SSE | 18.0km/h, SSW
+09:00: 1.2m,  5.9s, SSE | 19.1km/h, SSW
+10:00: 1.2m,  6.0s, SSE | 19.8km/h, SSW
+11:00: 1.2m,  6.0s, SSE | 19.1km/h, SSW
+12:00: 1.2m,  6.0s, SSE | 18.0km/h, S
+13:00: 1.2m,  6.0s, SSE | 17.6km/h, S
+14:00: 1.2m,  6.0s, SSE | 18.4km/h, S
+15:00: 1.2m,  6.0s, SSE | 19.4km/h, SSE
+16:00: 1.2m,  6.0s, SSE | 19.4km/h, SSE
+17:00: 1.2m,  6.0s, SE  | 17.6km/h, SE
+18:00: 1.2m,  5.9s, SE  | 15.5km/h, SE
+19:00: 1.3m,  5.9s, SE  | 13.3km/h, ESE
+20:00: 1.3m,  5.9s, SE  | 11.5km/h, E
+21:00: 1.3m,  5.9s, SE  | 11.2km/h, ENE
+22:00: 1.4m,  5.9s, ESE | 10.8km/h, NE
+23:00: 1.4m,  6.0s, ESE | 10.8km/h, NE
+00:00: 1.5m,  6.1s, ESE | 10.8km/h, NE
+
+Sat 2020-09-19
+-------------------
+sun: 05:21  05:46  17:48  18:12  
+rain: 25%, < 1mm
+moon: 6%
+sea-temperature: 17.6°C
+tide: L-03:16  H-09:35  L-15:34  H-21:49  
+<----    Swell    ----> | <---- Wind ---->
+01:00: 1.5m,  6.2s, ESE | 10.8km/h, NE
+02:00: 1.5m,  6.3s, ESE | 11.5km/h, NE
+03:00: 1.6m,  6.4s, E   | 11.9km/h, NE
+04:00: 1.6m,  6.4s, E   | 13.0km/h, NE
+05:00: 1.5m,  6.4s, E   | 13.7km/h, NE
+06:00: 1.5m,  6.5s, E   | 14.4km/h, NE
+07:00: 1.5m,  6.5s, E   | 15.8km/h, NE
+08:00: 1.5m,  6.5s, E   | 18.0km/h, NE
+09:00: 1.5m,  6.5s, E   | 20.9km/h, NE
+10:00: 1.4m,  6.5s, E   | 23.0km/h, NE
+11:00: 1.4m,  6.4s, E   | 24.5km/h, NE
+12:00: 1.4m,  6.4s, E   | 25.9km/h, NE
+13:00: 1.4m,  6.4s, E   | 28.1km/h, NE
+14:00: 1.5m,  6.3s, E   | 31.3km/h, NE
+15:00: 1.5m,  6.2s, E   | 34.9km/h, NE
+16:00: 1.6m,  6.1s, E   | 36.7km/h, NE
+17:00: 1.7m,  6.1s, E   | 36.7km/h, NE
+18:00: 1.8m,  6.2s, ENE | 35.6km/h, NE
+19:00: 1.9m,  6.3s, ENE | 33.5km/h, NE
+20:00: 2.0m,  6.5s, ENE | 32.4km/h, NE
+21:00: 2.0m,  6.7s, ENE | 31.0km/h, NNE
+22:00: 2.0m,  6.9s, ENE | 30.2km/h, NNE
+23:00: 2.0m,  7.0s, ENE | 29.9km/h, NE
+00:00: 2.1m,  7.2s, ENE | 29.2km/h, NE
+
+Sun 2020-09-20
+-------------------
+sun: 05:20  05:44  17:48  18:13  
+rain: 35%, < 2mm
+moon: 13%
+sea-temperature: 17.6°C
+tide: L-04:00  H-10:22  L-16:30  H-22:40  
+<----    Swell    ----> | <---- Wind ---->
+01:00: 2.1m,  7.3s, ENE | 28.4km/h, NE
+02:00: 2.1m,  7.5s, ENE | 27.4km/h, NE
+03:00: 2.0m,  7.6s, ENE | 25.9km/h, NNE
+04:00: 2.0m,  7.7s, ENE | 24.1km/h, NNE
+07:00: 2.0m,  8.0s, ENE | 23.0km/h, N
+10:00: 2.0m,  8.2s, ENE | 27.0km/h, NNE
+13:00: 1.9m,  8.4s, ENE | 25.6km/h, NNE
+16:00: 1.9m,  8.5s, ENE | 27.7km/h, NNE
+19:00: 1.9m,  8.7s, ENE | 23.0km/h, NNE
+22:00: 1.8m,  9.0s, ENE | 18.0km/h, NNE
+
+Mon 2020-09-21
+-------------------
+sun: 05:18  05:43  17:49  18:14  
+rain: 15%, < 1mm
+moon: 22%
+sea-temperature: 17.6°C
+tide: L-04:44  H-11:11  L-17:30  H-23:34  
+<----    Swell    ----> | <---- Wind ---->
+01:00: 1.8m,  9.1s, ENE | 15.5km/h, N
+04:00: 1.7m,  9.1s, ENE | 14.8km/h, N
+07:00: 1.5m,  9.0s, ENE | 14.0km/h, NNW
+10:00: 1.4m,  8.9s, ENE | 16.2km/h, N
+13:00: 1.3m,  8.8s, ENE | 18.0km/h, NNE
+16:00: 1.3m,  8.7s, ENE | 23.4km/h, NE
+19:00: 1.3m,  8.6s, ENE | 19.4km/h, NNE
+22:00: 1.3m,  8.5s, ENE | 16.2km/h, N
+
