@@ -1,0 +1,203 @@
+Tue 2021-01-12
+-------------------
+sun: 05:28  05:56  20:03  20:31  
+rain: 0%, 0mm
+moon: 1%
+sea-temperature: 22.7°C
+tide: L-01:46  H-08:28  L-15:15  H-21:11  
+<----    Swell    ----> | <---- Wind ---->
+00:00: 1.4m,  5.0s, ENE | 23.8km/h, NNE
+01:00: 1.4m,  5.1s, ENE | 23.8km/h, NNE
+02:00: 1.3m,  5.2s, ENE | 23.8km/h, NNE
+03:00: 1.3m,  5.2s, ENE | 24.8km/h, NNE
+04:00: 1.3m,  5.2s, ENE | 24.1km/h, NNE
+05:00: 1.2m,  5.3s, ENE | 24.8km/h, NNE
+06:00: 1.2m,  5.3s, ENE | 24.8km/h, NNE
+07:00: 1.1m,  5.4s, ENE | 24.8km/h, NNE
+08:00: 1.1m,  5.5s, ENE | 22.7km/h, NNE
+09:00: 1.0m,  5.5s, ENE | 23.4km/h, NNE
+10:00: 1.0m,  5.6s, ENE | 24.1km/h, NNE
+11:00: 1.0m,  5.7s, ENE | 26.3km/h, NNE
+12:00: 1.0m,  5.7s, ENE | 29.5km/h, NE
+13:00: 1.0m,  5.8s, ENE | 31.3km/h, NE
+14:00: 1.1m,  5.6s, ENE | 26.3km/h, ENE
+15:00: 1.2m,  4.9s, ENE | 28.4km/h, ENE
+16:00: 1.3m,  4.9s, ENE | 30.2km/h, NE
+17:00: 1.4m,  5.0s, ENE | 32.0km/h, NE
+18:00: 1.5m,  5.2s, ENE | 33.1km/h, NE
+19:00: 1.5m,  5.3s, ENE | 33.1km/h, NE
+20:00: 1.6m,  5.5s, ENE | 33.1km/h, NE
+21:00: 1.6m,  5.6s, ENE | 33.8km/h, NE
+22:00: 1.6m,  5.7s, ENE | 33.8km/h, NE
+23:00: 1.6m,  5.7s, ENE | 32.8km/h, NE
+
+Wed 2021-01-13
+-------------------
+sun: 05:29  05:57  20:03  20:31  
+rain: 5%, < 1mm
+moon: 0%
+sea-temperature: 22.7°C
+tide: L-02:37  H-09:18  L-16:03  H-22:02  
+<----    Swell    ----> | <---- Wind ---->
+00:00: 1.5m,  5.8s, ENE | 32.0km/h, NE
+01:00: 1.5m,  5.8s, ENE | 30.6km/h, NE
+02:00: 1.4m,  5.8s, ENE | 26.3km/h, NE
+03:00: 1.3m,  5.8s, ENE | 22.0km/h, NNE
+04:00: 1.3m,  5.8s, ENE | 20.9km/h, NNE
+05:00: 1.2m,  5.8s, ENE | 19.1km/h, NNE
+06:00: 1.2m,  5.8s, ENE | 18.7km/h, NNE
+07:00: 1.2m,  5.8s, ENE | 16.9km/h, NNE
+08:00: 1.1m,  5.9s, ENE | 14.4km/h, NE
+09:00: 1.1m,  6.0s, ENE | 14.4km/h, NE
+10:00: 1.1m,  6.2s, ENE | 18.4km/h, NE
+11:00: 1.0m,  6.5s, E   | 19.4km/h, ENE
+12:00: 1.0m,  7.0s, ENE | 23.4km/h, ENE
+13:00: 1.0m,  7.2s, ENE | 23.0km/h, ENE
+14:00: 1.1m,  7.2s, ENE | 26.6km/h, ENE
+15:00: 1.2m,  7.3s, ENE | 27.7km/h, ENE
+16:00: 1.3m,  4.7s, ENE | 28.4km/h, ENE
+17:00: 1.5m,  5.0s, ENE | 29.5km/h, ENE
+18:00: 1.6m,  5.3s, ENE | 31.7km/h, NE
+19:00: 1.6m,  5.5s, ENE | 32.0km/h, NE
+20:00: 1.6m,  5.6s, ENE | 32.4km/h, NE
+21:00: 1.6m,  5.7s, ENE | 29.9km/h, NE
+22:00: 1.6m,  5.7s, ENE | 28.8km/h, NE
+23:00: 1.6m,  5.7s, ENE | 29.2km/h, NNE
+
+Thu 2021-01-14
+-------------------
+sun: 05:30  05:58  20:03  20:30  
+rain: 20%, < 1mm
+moon: 2%
+sea-temperature: 22.7°C
+tide: L-03:26  H-10:05  L-16:48  H-22:48  
+<----    Swell    ----> | <---- Wind ---->
+00:00: 1.6m,  5.7s, ENE | 31.0km/h, NNE
+01:00: 1.5m,  5.7s, ENE | 27.7km/h, NNE
+02:00: 1.5m,  5.7s, ENE | 25.2km/h, NNE
+03:00: 1.5m,  5.7s, ENE | 26.6km/h, NNE
+04:00: 1.4m,  5.8s, ENE | 27.0km/h, NNE
+05:00: 1.4m,  7.8s, ENE | 26.3km/h, NNE
+06:00: 1.3m,  7.8s, E   | 26.6km/h, NNE
+07:00: 1.3m,  7.9s, E   | 24.8km/h, NNE
+08:00: 1.3m,  8.1s, E   | 22.7km/h, NNE
+09:00: 1.2m,  8.1s, E   | 20.5km/h, NNE
+10:00: 1.2m,  8.1s, E   | 23.4km/h, NNE
+11:00: 1.1m,  8.1s, E   | 22.7km/h, NNE
+12:00: 1.1m,  8.1s, E   | 26.6km/h, NE
+13:00: 1.2m,  8.1s, E   | 26.3km/h, NE
+14:00: 1.4m,  8.0s, E   | 30.2km/h, NE
+15:00: 1.6m,  5.3s, ENE | 32.8km/h, NE
+16:00: 1.8m,  5.7s, ENE | 32.8km/h, NE
+17:00: 2.0m,  6.0s, ENE | 33.8km/h, NE
+18:00: 2.0m,  6.2s, ENE | 34.6km/h, NE
+19:00: 2.0m,  6.4s, ENE | 34.9km/h, NE
+20:00: 1.8m,  6.5s, ENE | 36.4km/h, NE
+21:00: 1.8m,  6.5s, ENE | 31.3km/h, NE
+22:00: 1.8m,  6.6s, ENE | 27.4km/h, NNE
+23:00: 1.8m,  6.6s, ENE | 24.8km/h, NNE
+
+Fri 2021-01-15
+-------------------
+sun: 05:31  05:59  20:02  20:30  
+rain: 40%, < 1mm
+moon: 6%
+sea-temperature: 22.7°C
+tide: L-04:14  H-10:49  L-17:30  H-23:33  
+<----    Swell    ----> | <---- Wind ---->
+00:00: 1.7m,  6.6s, ENE | 26.3km/h, NNE
+01:00: 1.6m,  6.7s, ENE | 23.0km/h, N
+02:00: 1.4m,  6.7s, ENE | 20.9km/h, NNW
+03:00: 1.4m,  6.8s, ENE | 19.8km/h, SW
+04:00: 1.4m,  6.8s, ENE | 20.2km/h, SW
+05:00: 1.4m,  6.8s, ENE | 19.1km/h, SW
+06:00: 1.6m,  6.5s, E   | 21.2km/h, SW
+07:00: 1.6m,  6.5s, SE  | 22.0km/h, SW
+08:00: 1.7m,  6.7s, SSE | 23.0km/h, SSW
+09:00: 1.7m,  6.9s, SSE | 23.4km/h, SSW
+10:00: 1.8m,  7.1s, SSE | 29.9km/h, SSW
+11:00: 1.7m,  7.2s, S   | 32.4km/h, SSW
+12:00: 1.7m,  7.2s, S   | 33.1km/h, SSW
+13:00: 1.7m,  7.3s, S   | 27.4km/h, SSW
+14:00: 1.6m,  7.2s, SSE | 27.0km/h, SSW
+15:00: 1.6m,  7.2s, SSE | 27.0km/h, S
+16:00: 1.5m,  7.2s, SSE | 25.9km/h, SSE
+17:00: 1.5m,  7.2s, SSE | 25.2km/h, SSE
+18:00: 1.4m,  7.1s, SSE | 24.5km/h, SE
+19:00: 1.4m,  7.1s, SSE | 23.0km/h, SE
+20:00: 1.4m,  7.0s, SSE | 23.8km/h, SE
+21:00: 1.4m,  7.0s, SSE | 24.1km/h, SE
+22:00: 1.4m,  6.9s, SSE | 25.2km/h, SE
+23:00: 1.4m,  6.8s, SSE | 28.1km/h, SSE
+
+Sat 2021-01-16
+-------------------
+sun: 05:32  06:00  20:02  20:30  
+rain: 45%, < 2mm
+moon: 12%
+sea-temperature: 22.7°C
+tide: L-04:59  H-11:31  L-18:10  
+<----    Swell    ----> | <---- Wind ---->
+00:00: 1.4m,  6.8s, SSE | 30.6km/h, SSE
+01:00: 1.4m,  6.7s, SSE | 28.8km/h, SSE
+02:00: 1.5m,  6.6s, SSE | 26.6km/h, SSE
+03:00: 1.5m,  6.5s, SSE | 27.7km/h, SSE
+04:00: 1.5m,  6.4s, SSE | 29.9km/h, SSE
+05:00: 1.5m,  6.3s, SSE | 29.2km/h, SSE
+06:00: 1.5m,  6.3s, SSE | 28.8km/h, SSE
+07:00: 1.5m,  6.4s, SSE | 26.6km/h, SSE
+08:00: 1.6m,  6.5s, SSE | 24.5km/h, SSE
+09:00: 1.7m,  6.7s, SSE | 23.0km/h, SSE
+10:00: 1.8m,  6.9s, SSE | 27.4km/h, SSE
+11:00: 1.8m,  8.3s, S   | 27.0km/h, SSE
+12:00: 1.9m,  8.8s, S   | 28.1km/h, SSE
+13:00: 2.0m,  9.1s, S   | 24.5km/h, SSE
+14:00: 2.0m,  9.2s, S   | 24.8km/h, SE
+15:00: 2.0m,  9.2s, S   | 24.1km/h, SE
+16:00: 2.0m,  9.2s, S   | 23.4km/h, SE
+17:00: 2.0m,  9.2s, S   | 22.0km/h, SE
+18:00: 1.9m,  9.1s, S   | 22.0km/h, SE
+19:00: 1.9m,  9.0s, S   | 21.6km/h, SE
+20:00: 1.8m,  8.9s, S   | 22.0km/h, SE
+21:00: 1.7m,  8.8s, S   | 19.4km/h, ESE
+22:00: 1.7m,  8.7s, S   | 18.0km/h, ESE
+23:00: 1.6m,  8.5s, S   | 15.5km/h, ESE
+
+Sun 2021-01-17
+-------------------
+sun: 05:33  06:01  20:02  20:29  
+rain: 35%, < 1mm
+moon: 20%
+sea-temperature: 22.7°C
+tide: H-00:16  L-05:44  H-12:09  L-18:48  
+<----    Swell    ----> | <---- Wind ---->
+00:00: 1.6m,  8.3s, S   | 16.6km/h, ESE
+01:00: 1.5m,  8.2s, S   | 14.4km/h, ESE
+02:00: 1.5m,  8.0s, S   | 12.6km/h, ESE
+03:00: 1.4m,  7.9s, S   | 12.6km/h, ESE
+04:00: 1.4m,  7.8s, S   | 14.0km/h, ESE
+05:00: 1.4m,  9.4s, ESE | 13.7km/h, ESE
+08:00: 1.3m,  9.4s, ESE | 13.7km/h, ESE
+11:00: 1.3m,  9.1s, ESE | 19.8km/h, E
+14:00: 1.3m,  9.0s, ESE | 24.1km/h, E
+17:00: 1.5m,  9.0s, ESE | 23.8km/h, E
+20:00: 1.6m,  9.0s, SE  | 27.4km/h, NE
+23:00: 1.6m,  9.0s, SSE | 24.5km/h, NE
+
+Mon 2021-01-18
+-------------------
+sun: 05:34  06:02  20:02  20:29  
+rain: 45%, 1-5mm
+moon: 28%
+sea-temperature: 22.7°C
+tide: H-00:58  L-06:29  H-12:47  L-19:24  
+<----    Swell    ----> | <---- Wind ---->
+02:00: 1.6m,  9.1s, SSE | 18.7km/h, NNE
+05:00: 1.6m,  9.2s, SSE | 17.3km/h, NNE
+08:00: 1.6m,  9.4s, S   | 15.5km/h, NNE
+11:00: 1.7m,  9.5s, S   | 20.2km/h, NNE
+14:00: 1.7m, 13.9s, S   | 23.0km/h, E
+17:00: 1.6m, 13.2s, S   | 26.3km/h, ENE
+20:00: 1.4m, 12.5s, S   | 24.5km/h, NE
+23:00: 1.3m, 11.9s, S   | 19.4km/h, NNE
+
