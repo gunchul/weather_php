@@ -3,7 +3,7 @@ Sun 2021-02-14
 sun: 06:03  06:29  19:48  20:14  
 rain: 40%, < 1mm
 moon: 8%
-sea-temperature: 22.4°C
+sea-temperature: 22.2°C
 tide: L-04:46  H-11:06  L-17:33  H-23:36  
 <----    Swell    ----> | <---- Wind ---->
 00:00: 2.1m,  7.5s, SSE | 31.3km/h, S
@@ -18,16 +18,16 @@ tide: L-04:46  H-11:06  L-17:33  H-23:36
 09:00: 2.0m,  7.4s, S   | 32.0km/h, S
 10:00: 2.0m,  7.3s, S   | 32.0km/h, S
 11:00: 1.9m,  7.1s, S   | 32.0km/h, S
-12:00: 1.9m,  7.0s, S   | 32.8km/h, S
-13:00: 1.9m,  6.9s, S   | 32.8km/h, S
-14:00: 1.8m,  6.9s, S   | 33.8km/h, S
-15:00: 1.8m,  6.8s, S   | 34.9km/h, S
+12:00: 1.9m,  7.0s, S   | 33.5km/h, S
+13:00: 1.9m,  6.9s, S   | 33.8km/h, S
+14:00: 1.8m,  6.9s, S   | 34.2km/h, S
+15:00: 1.8m,  6.8s, S   | 35.3km/h, S
 16:00: 1.7m,  6.7s, S   | 37.1km/h, S
-17:00: 1.7m,  6.6s, SSE | 38.9km/h, S
-18:00: 1.7m,  6.6s, SSE | 39.2km/h, S
-19:00: 1.7m,  6.5s, SSE | 39.2km/h, S
-20:00: 1.7m,  6.5s, SSE | 39.2km/h, S
-21:00: 1.7m,  6.5s, SSE | 39.2km/h, S
+17:00: 1.7m,  6.6s, SSE | 37.1km/h, S
+18:00: 1.7m,  6.6s, SSE | 36.4km/h, S
+19:00: 1.7m,  6.5s, SSE | 36.0km/h, S
+20:00: 1.7m,  6.5s, SSE | 36.0km/h, S
+21:00: 1.7m,  6.5s, SSE | 35.6km/h, S
 22:00: 1.7m,  6.5s, SSE | 36.4km/h, S
 23:00: 1.8m,  6.6s, SSE | 37.1km/h, S
 
@@ -36,7 +36,7 @@ Mon 2021-02-15
 sun: 06:04  06:30  19:47  20:13  
 rain: 75%, 1-5mm
 moon: 14%
-sea-temperature: 22.4°C
+sea-temperature: 22.2°C
 tide: L-05:29  H-11:41  L-18:06  
 <----    Swell    ----> | <---- Wind ---->
 00:00: 1.8m,  6.7s, SSE | 31.7km/h, S
@@ -69,7 +69,7 @@ Tue 2021-02-16
 sun: 06:05  06:31  19:46  20:12  
 rain: 65%, 1-5mm
 moon: 21%
-sea-temperature: 22.4°C
+sea-temperature: 22.2°C
 tide: H-00:12  L-06:09  H-12:13  L-18:37  
 <----    Swell    ----> | <---- Wind ---->
 00:00: 2.7m,  8.3s, SE  | 25.9km/h, SE
@@ -102,7 +102,7 @@ Wed 2021-02-17
 sun: 06:06  06:32  19:45  20:11  
 rain: 40%, < 2mm
 moon: 29%
-sea-temperature: 22.4°C
+sea-temperature: 22.2°C
 tide: H-00:47  L-06:50  H-12:44  L-19:07  
 <----    Swell    ----> | <---- Wind ---->
 00:00: 1.7m,  7.2s, ESE | 17.6km/h, SE
@@ -135,7 +135,7 @@ Thu 2021-02-18
 sun: 06:07  06:33  19:44  20:09  
 rain: 55%, 1-5mm
 moon: 38%
-sea-temperature: 22.4°C
+sea-temperature: 22.2°C
 tide: H-01:25  L-07:37  H-13:22  L-19:42  
 <----    Swell    ----> | <---- Wind ---->
 00:00: 2.3m,  9.7s, E   | 20.5km/h, SE
@@ -168,7 +168,7 @@ Fri 2021-02-19
 sun: 06:08  06:34  19:43  20:08  
 rain: 45%, 1-5mm
 moon: 47%
-sea-temperature: 22.4°C
+sea-temperature: 22.2°C
 tide: H-02:11  L-08:32  H-14:14  L-20:26  
 <----    Swell    ----> | <---- Wind ---->
 00:00: 2.6m,  9.3s, ESE | 17.6km/h, ENE
@@ -189,7 +189,7 @@ Sat 2021-02-20
 sun: 06:09  06:35  19:41  20:07  
 rain: 40%, < 2mm
 moon: 50%
-sea-temperature: 22.4°C
+sea-temperature: 22.2°C
 tide: H-03:05  L-09:41  H-15:26  L-21:22  
 <----    Swell    ----> | <---- Wind ---->
 02:00: 1.7m,  8.8s, ESE | 11.5km/h, SSW
