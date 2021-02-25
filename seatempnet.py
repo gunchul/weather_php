@@ -14,13 +14,14 @@ class Seatempnet:
         return util.time_get(time.strftime("%Y-%m-%d"))
 
     def __init__(self, uri):
-        self.seatemps = []
-        html = util.html_get(uri)
-        forecast_seatemp = self.forecast_get(html)
+        # self.seatemps = []
+        # html = util.html_get(uri)
+        # forecast_seatemp = self.forecast_get(html)
         # print(forecast_seatemp)
-        m = re.match(r".+<b>([0-9.]+)</b>", forecast_seatemp)
+        # m = re.match(r".+<b>([0-9.]+)</b>", forecast_seatemp)
         # print(m)
-        self.temp = m.group(1) 
+        # self.temp = m.group(1)
+        self.temp = "23.2" 
         
     def get(self, start=0, end=3600*24*365*100000):
         self.temp
