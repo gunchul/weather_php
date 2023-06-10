@@ -47,7 +47,7 @@ if ($output == NULL)
 
 <body>
 <p>
-<form action="search.php" id="search" method="post">
+<form action="index.php" id="search" method="post">
   지역: 
   <div class="btn-group">
     <?php
